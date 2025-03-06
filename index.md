@@ -4,5 +4,3 @@
 #### This is H4
 ##### This is H5
 ###### This is H6
-
-I added some headers to this file
